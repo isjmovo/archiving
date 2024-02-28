@@ -1,4 +1,4 @@
-package com.toy.dev.archive.recode;
+package com.toy.dev.arc.recode;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

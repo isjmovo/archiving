@@ -1,4 +1,4 @@
-package com.toy.dev.archive.recode;
+package com.toy.dev.arc.recode;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

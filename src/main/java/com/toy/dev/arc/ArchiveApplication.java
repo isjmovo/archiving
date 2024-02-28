@@ -1,4 +1,4 @@
-package com.toy.dev.archive;
+package com.toy.dev.arc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
