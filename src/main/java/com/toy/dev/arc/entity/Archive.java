@@ -1,4 +1,4 @@
-package com.toy.dev.arc.recode;
+package com.toy.dev.arc.entity;
 
 import jakarta.persistence.*;
 import lombok.Builder;
